@@ -1,0 +1,9 @@
+services:
+  app:
+    image: app:latest
+    build:
+      context: .
+    ports:
+      - "5000:80"
+  redis:
+    image: redis:6
