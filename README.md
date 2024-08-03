@@ -1,4 +1,4 @@
-# multi-cont2
+# multi-container app
 
 Visit localhost:5000 in your browser to see the app in action. 
 
